@@ -7,15 +7,15 @@ Hello! I'm Euvian Khafulu, a data analyst and a Financial Advisor passionate abo
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## TECHNICAL SKILLS
 
-**✅ Data Analysis **
+**✅ Data Analysis**
 
 **✅ Data Cleaning**
 
-**✅ Data Visualization **
+**✅ Data Visualization**
 
-**✅ Statistical Analysis **
+**✅ Statistical Analysis**
 
-**✅ Database Analysis **
+**✅ Database Analysis**
 
 
 
